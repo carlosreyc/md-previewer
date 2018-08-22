@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+}
+
+.App-Container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+#preview {
+  width: 100%;
+  background-color: white;
+}
